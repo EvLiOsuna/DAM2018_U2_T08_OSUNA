@@ -1,0 +1,7 @@
+{
+  "name": "DAM20182-OSUNA-U2-T08-ADD-SELECT",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
